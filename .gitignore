@@ -5,5 +5,7 @@ venv/
 .idea/
 .vscode/
 .env
+.xlsx
+.xls
 allure-results/
 allure-report/
